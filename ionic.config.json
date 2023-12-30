@@ -1,0 +1,7 @@
+{
+  "name": "LetsGoX",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
